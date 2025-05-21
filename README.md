@@ -61,9 +61,6 @@ node crud.mongodb.js
 
 Contributions are welcome! If you have ideas for improvements or additional features, feel free to submit a pull request.
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## 📬 Contact
 
